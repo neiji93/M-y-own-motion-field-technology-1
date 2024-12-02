@@ -6,3 +6,4 @@ Intend for vidéo games.can bé used for securing médical datas. Can bé used f
 
 those drawings are games in physics. the first image show a game i lost. behind each cross there are stars and crosses after that. after that i do't know. the number 3 can be replaced by another number. it whole means that we can put large scale databases behind crosses. and it means that the datas can be ....
 the second image sho that in os the datas are linear. it is usefull for basic or smart behaviour prgrams. then whole of them are linkedin neural networks. as the second image ks linear, the last n's will end with right selected animation motion.
+if hou sont want to use neural networks, use stars behind crosses. i did a mistake in image order.
