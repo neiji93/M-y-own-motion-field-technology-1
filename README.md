@@ -8,3 +8,5 @@ those drawings are games in physics. the first image show a game i lost. behind 
 the second image sho that in os the datas are linear. it is usefull for basic or smart behaviour prgrams. then whole of them are linkedin neural networks. as the second image ks linear, the last n's will end with right selected animation motion.
 if hou sont want to use neural networks, use stars behind crosses. i did a mistake in image order.
 for os design, it seems that hd s contain silver metals.
+
+in order to link the neural networks, hou have to ise some of my previous stuffs. it means using exp(3x) or 2.3 x  or -2.3 x. im not sure.
